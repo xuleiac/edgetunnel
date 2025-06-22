@@ -1,8 +1,5 @@
 # 直连补充列表
 
-# 域名后缀匹配
-DOMAIN-SUFFIX,19881008.xyz
-
 # 域名关键字匹配
-DOMAIN-KEYWORD,19881008
+DOMAIN-KEYWORD,www.19881008.xyz
 DOMAIN-KEYWORD,cloudflare
