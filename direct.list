@@ -1,6 +1,4 @@
 # 直连补充列表
 
 # 域名后缀匹配
-DOMAIN-SUFFIX,speed.cloudflare.com
-DOMAIN-SUFFIX,a.nel.cloudflare.com
 DOMAIN-SUFFIX,cloudflare.com
